@@ -28,3 +28,9 @@ I don't think I'm saying anything original here. Video itself as a medium has mu
 If that's how you watch movies, someone will surely update you that you're doing it wrong. With that in mind, why should speed-running through a game, trying to unlock everything be the goal for any story-driven experience?
 
 In no way I'm suggesting that achievements should be removed from any video game. **Achievements are an integral part of the satisfaction in video games**. I'm merely stating that if we extract the challenge that tests skill maybe then we can start evaluating video games based on the sheer entertainment they offer and express their merits focusing on the emotional spectrum; like excitement, curiosity, angst, thrill, happiness...
+
+---
+
+### Author: [Makis Tracend](http://tracend.me)
+
+Published on Jan 19, 2014. Featured on [Medium](https://medium.com/amigame-read/because-video-games-ccb80a60b003)
