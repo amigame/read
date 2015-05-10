@@ -9,7 +9,7 @@ Forget it. Just forget it.
 
 At the beginning, and this was years ago already, we thought we would be just another game studio. Possibly a game studio with quirky productions, haven for expressing our weird selves.
 
-For a short period (2010–2012) we released titles using Unity, because that seemed to be the thing to do at the time, and tried to relate with the community; although in the process we realized we were losing a few fundamental things that characterized us:
+For a short period (2010-2012) we released titles using Unity, because that seemed to be the thing to do at the time, and tried to relate with the community; although in the process we realized we were losing a few fundamental things that characterized us:
 
 * Our love for open source
 * Real interaction with the users
@@ -68,7 +68,7 @@ We are fans of [abandonware](http://www.abandonia.com/en/game/all/Abandonware/),
 
 We see Amigame as a collective of creators, and for that reason cater to the creator needs. Instead of a "slaving" model that rewards people for their time, imagine if creators could be rewarded for their work on an continuous rate through royalties and reserve the intellectual rights of their creations.
 
-But what about the creations themselves? Even after the regular lifecycle (release schedule) of a game, there's still something to be gained from them. **Our ...gy is to release all content that gets dated as open source**, so it can continue to live as a community project. Users may benefit from past code and recycle elements in new creations. As an added benefit, this practice should keep old games up to date with newer hardware and browser specs.
+But what about the creations themselves? Even after the regular lifecycle (release schedule) of a game, there's still something to be gained from them. **Our strategy is to release all content that gets dated as open source**, so it can continue to live as a community project. Users may benefit from past code and recycle elements in new creations. As an added benefit, this practice should keep old games up to date with newer hardware and browser specs.
 
 ---
 
