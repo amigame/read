@@ -1,5 +1,22 @@
+# What is Amigame? 
 
-Amigame is one of the first user-driven game studios. We are fans of good games and want to create a community arounds us that have the passion to support original ideas and test out experimental concepts that can lead to innovation.
+
+Amigame is a self-published, independent studio using innovative web technologies like WebGL, JavaScript and HTML5. 
+Moreover, it was one of the first user-driven game studios. We are fans of good games and want to create a community arounds us that have the passion to support original ideas and test out experimental concepts that can lead to innovation.
+
+---
+
+## Dynamic content
+We want games that are constantly changing, following the tradition of web services
+
+## User community
+We share our code and expect people that play the games to jump in and contribute in the development of the games. Players and developers are united under one roof. 
+
+## Available Everywhere 
+The games are published online and the aim is to make them accessible from any device, providing different interfaces that complement each other and create a bigger experience. 
+
+Redefining multi-platform support
+
 
 ## Talks
 
