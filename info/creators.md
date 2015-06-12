@@ -1,5 +1,9 @@
 # Creators 101
 
+Everyone can contribute, everyone gets rewarded
+
+---
+
 Interested in creating content? Lets talk!
 
 We're sharing our monthly revenue with 
