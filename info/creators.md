@@ -1,3 +1,4 @@
+# Creators 101
 
 Interested in creating content? Lets talk!
 
@@ -7,6 +8,8 @@ We're sharing our monthly revenue with
 ## Asset creators
 
 We follow an open policy for embracing creators in an unrestricted way. All you have to agree with is to allow your content to appear in the context of any of our productions. 
+
+## Revenue
 
 Royalties will 
 
