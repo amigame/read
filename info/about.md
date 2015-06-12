@@ -1,28 +1,29 @@
-# What is Amigame? 
+# What is Amigame?
 
-
-Amigame is a self-published, independent studio using innovative web technologies like WebGL, JavaScript and HTML5. 
-Moreover, it was one of the first user-driven game studios. We are fans of good games and want to create a community arounds us that have the passion to support original ideas and test out experimental concepts that can lead to innovation.
+Basic info on the community and the games
 
 ---
+
+Amigame is a self-published, independent studio using innovative web technologies like WebGL, JavaScript and HTML5.
+Moreover, it was one of the first user-driven game studios. We are fans of good games and want to create a community arounds us that have the passion to support original ideas and test out experimental concepts that can lead to innovation.
 
 ## Dynamic content
 We want games that are constantly changing, following the tradition of web services
 
 ## User community
-We share our code and expect people that play the games to jump in and contribute in the development of the games. Players and developers are united under one roof. 
+We share our code and expect people that play the games to jump in and contribute in the development of the games. Players and developers are united under one roof.
 
-## Available Everywhere 
-The games are published online and the aim is to make them accessible from any device, providing different interfaces that complement each other and create a bigger experience. 
+## Available Everywhere
+The games are published online and the aim is to make them accessible from any device, providing different interfaces that complement each other and create a bigger experience.
 
 Redefining multi-platform support
 
 
 ## Talks
 
-Discussion is a driving force for generating new ideas and sorting out the specs of a particular feature. With your participation you can naturally influence the development and see some of your ideas come to life. 
+Discussion is a driving force for generating new ideas and sorting out the specs of a particular feature. With your participation you can naturally influence the development and see some of your ideas come to life.
 
-We are endorsing everyone's participation and believe that the more people contribute the better the final result will be. Brainstorming needs to stay true to the original vision but in a true democratic fashion everyone's input is considered with the same weight as anyone else's. 
+We are endorsing everyone's participation and believe that the more people contribute the better the final result will be. Brainstorming needs to stay true to the original vision but in a true democratic fashion everyone's input is considered with the same weight as anyone else's.
 
 To enhance the feeling of actively contributing in something constantly evolving, we are rewarding the ideas that are well-outlined or at some dergee innovative with actual prizes that can vary based on the contribution.
 

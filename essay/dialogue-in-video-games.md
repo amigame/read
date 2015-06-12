@@ -1,8 +1,10 @@
-# Dialogue (in video games) 
+# Dialogue (in video games)
+
+A focused piece on the quality of dialogue
 
 ---
 
-What's wrong with this picture? 
+What's wrong with this picture?
 http://www.youtube.com/watch?v=bt9_U-iFOaw&t=18m0s
 
 ---
@@ -11,7 +13,7 @@ http://www.youtube.com/watch?v=bt9_U-iFOaw&t=18m0s
 
 ---
 
-She is not looking at ME! 
+She is not looking at ME!
 
 ---
 
@@ -19,7 +21,7 @@ This is a unique oportunity for video games to present dialogue scenes like a pe
 
 ---
 
-Cut scenes that replicate the techniques of movies are stale and obvious knock offs. 
+Cut scenes that replicate the techniques of movies are stale and obvious knock offs.
 
 ## Credits
 

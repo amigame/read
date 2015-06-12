@@ -1,4 +1,5 @@
 # Because...video games.
+
 A gamer's opinion, 25 years in the making
 
 ---
