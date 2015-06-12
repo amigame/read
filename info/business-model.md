@@ -1,6 +1,10 @@
 
 # Our business model
 
+How can all this work?
+
+---
+
 * Sharing community
 * Creator-focused
 * No corporate head, only corporate partners
