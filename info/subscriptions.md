@@ -1,5 +1,9 @@
 # Why subscriptions?
 
+Analyzing the subscription model 
+
+---
+
 Amigame is all subscription based games
 
 We believe subscriptions is the future of online content in general.
