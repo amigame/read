@@ -1,4 +1,4 @@
-# [WIP] Lets Adventure
+# [WIP] Let's Adventure
 
 we believe that you should experience video games not as an "out of body" experience - that's why we believe for our types of games third person view doesn't work. 
 
