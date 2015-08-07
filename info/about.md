@@ -4,7 +4,7 @@ Basic info on the community and the games
 
 ---
 
-Amigame is a self-published, independent studio using innovative web technologies like WebGL, JavaScript and HTML5.
+Amigame is a independent game studio using innovative web technologies like WebGL, JavaScript and HTML5.
 Moreover, it was one of the first user-driven game studios. We are fans of good games and want to create a community arounds us that have the passion to support original ideas and test out experimental concepts that can lead to innovation.
 
 ## Dynamic content
@@ -17,6 +17,8 @@ We share our code and expect people that play the games to jump in and contribut
 The games are published online and the aim is to make them accessible from any device, providing different interfaces that complement each other and create a bigger experience.
 
 Redefining multi-platform support
+
+Decentralized Community site
 
 
 ## Talks
